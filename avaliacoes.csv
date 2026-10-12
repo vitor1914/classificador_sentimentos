@@ -1,0 +1,17 @@
+
+texto,sentimento
+"Adorei esse produto",positivo
+"Excelente atendimento",positivo
+"Estou muito satisfeito",positivo
+"Produto maravilhoso",positivo
+"Entrega rápida e eficiente",positivo
+"Péssima qualidade",negativo
+"O produto veio quebrado",negativo
+"Não gostei da compra",negativo
+"Atendimento muito ruim",negativo
+"Estou decepcionado",negativo
+"O produto chegou hoje",neutro
+"A embalagem é azul",neutro
+"A entrega ocorreu ontem",neutro
+"O pedido tem dois itens",neutro
+"O produto está disponível",neutro
